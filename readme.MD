@@ -1,11 +1,13 @@
 # Sinais e Sistemas em Python
 
-Esse repositório apresenta um conjunto de *notebooks* que abordam os conceitos fundamentais de Sinais e Sistemas explicados em Python:
+Esse repositório apresenta um conjunto de *notebooks* que abordam os conceitos fundamentais de Sinais e Sistemas explicados em Python.
 
-## 1. ``01_numeros_complexos.ipynb``
+## Descrição dos *notebooks*
+
+### 1. ``01_numeros_complexos.ipynb``
 Apresenta os principais conceitos de números complexos, incluindo as operações com números complexos e conversão entre formas de representação (polar, retangular).
 
-## 2. ``02_sinais_sistemas.ipynb``
+### 2. ``02_sinais_sistemas.ipynb``
 Introduz os conceitos iniciais sobre sinais e sistemas em tempo contínuo.
 * Plotagem de sinais;
 * Operações com sinais;
