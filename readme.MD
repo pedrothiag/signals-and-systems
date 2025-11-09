@@ -44,30 +44,16 @@ Ilustra os conceitos da amostragem e reconstrução ideal.
 
 Alguns livros foram essenciais para a construção desse material. Os principais são:
 
-* B.P. Lathi - Sinais e Sistemas Lineares. 2ª Edição. Bookman, 2006.
+* **B.P. Lathi - Sinais e Sistemas Lineares. 2ª Edição. Bookman, 2006**: Livro-texto da disciplina. Apresenta os principais conceitos introdutórios sobre sinais e sistemas.
 
-Livro-texto da disciplina. Apresenta os principais conceitos introdutórios sobre sinais e sistemas.
+* **B.P. Lathi - Signal Processing & Linear Systems. Berkeley Cambridge Press, 1998**: É um livro um pouco mais avançado do que o **Sinais e Sistemas Lineares** do mesmo autor. A ordem dos assuntos também é diferente (a transformada de Fourier é apresentada antes da transformada de Laplace).
 
-* B.P. Lathi - Signal Processing & Linear Systems. Berkeley Cambridge Press, 1998.
+* **B.P. Lathi, R. A. Green - Essentials of Digital Signal Processing. Berkeley Cambridge Press, 2014**: Livro focado em processamento digital de sinais. Recomendável para uma primeira leitura, mas não para um detalhamento mais aprofundado sobre o assunto, porém apresenta a melhor introdução sobre filtros seletivos dos livros citados.
 
-É um livro um pouco mais avançado do que o **Sinais e Sistemas Lineares** do mesmo autor. A ordem dos assuntos também é diferente (a transformada de Fourier é apresentada antes da transformada de Laplace).
+* **B.P. Lathi, Z. Ding - Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. LTC, 2012**: Livro focado em sistemas de comunicação. Recomendável para uma leitura no assunto sobre séries e transformadas de Fourier e suas aplicações. Apresenta uma interpretação de séries de Fourier utilizando decomposição de vetores, o que é particulamente interessante.
 
-* B.P. Lathi, R. A. Green - Essentials of Digital Signal Processing. Berkeley Cambridge Press, 2014.
+* **A.V. Oppenheim, A.S. Willsky - Sinais e Sistemas. 2ª Edição. Pearson, 2010**: Livro clássico sobre Sinais e Sistemas. Apresenta muitas aplicações, porém pode ser um pouco indigesto para estudantes mais novatos. Todavia, apresenta uma bela discussão sobre sistemas de controle e sobre a utilização de transformadas bilaterais.
 
-Livro focado em processamento digital de sinais. Recomendável para uma primeira leitura, mas não para um detalhamento mais aprofundado sobre o assunto, porém apresenta a melhor introdução sobre filtros seletivos dos livros citados.
+* **A.V. Oppenheim, R. W. Schafer - Digital Signal Processing. Prentice Hall, 1975**: Livro focado em processamento digital de sinais. Quando colocado em conjunto com o livro do Lathi, formam um belo par de estudo. Embora antigo, ainda o recomendo como a primeira leitura da área.
 
-* B.P. Lathi, Z. Ding - Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. LTC, 2012.
-
-Livro focado em sistemas de comunicação. Recomendável para uma leitura no assunto sobre séries e transformadas de Fourier e suas aplicações. Apresenta uma interpretação de séries de Fourier utilizando decomposição de vetores, o que é particulamente interessante.
-
-* A.V. Oppenheim, A.S. Willsky - Sinais e Sistemas. 2ª Edição. Pearson, 2010.
-
-Livro clássico sobre Sinais e Sistemas. Apresenta muitas aplicações, porém pode ser um pouco indigesto para estudantes mais novatos. Todavia, apresenta uma bela discussão sobre sistemas de controle e sobre a utilização de transformadas bilaterais.
-
-* A.V. Oppenheim, R. W. Schafer - Digital Signal Processing. Prentice Hall, 1975.
-
-Livro focado em processamento digital de sinais. Quando colocado em conjunto com o livro do Lathi, formam um belo par de estudo. Embora antigo, ainda o recomendo como a primeira leitura da área.
-
-* A.V. Oppenheim, R. W. Schafer - Processamento em Tempo Discreto de Sinais. 3ª Edição. Pearson, 2013.
-
-É uma continuação "espiritual" do livro anterior. Alguns conceitos estão mais bem explicados neste texto (por exemplo, análise frequencial de sistemas em tempo discreto), porém em outros, o livro anterior é melhor (como, por exemplo, transformada $\mathcal{Z}$).
+* **A.V. Oppenheim, R. W. Schafer - Processamento em Tempo Discreto de Sinais. 3ª Edição. Pearson, 2013**: É uma continuação "espiritual" do livro anterior. Alguns conceitos estão mais bem explicados neste texto (por exemplo, análise frequencial de sistemas em tempo discreto), porém em outros, o livro anterior é melhor (como, por exemplo, transformada $\mathcal{Z}$).
