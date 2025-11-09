@@ -2,6 +2,8 @@
 
 Esse repositório apresenta um conjunto de *notebooks* que abordam os conceitos fundamentais de Sinais e Sistemas explicados em Python.
 
+![alt text](image.png)
+
 ## Descrição dos *notebooks*
 
 ### 1. ``01_numeros_complexos.ipynb``
