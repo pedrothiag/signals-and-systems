@@ -86,3 +86,4 @@ python3 -m notebook
 | 2024.1 | [[Prova 1]](./avaliacoes/2024_1/p1.pdf) | [[Prova 2]](./avaliacoes/2024_1/p2.pdf) | [[Prova 3]](./avaliacoes/2024_1/p3.pdf) | [[Recuperação]](./avaliacoes/2024_1/rec.pdf) |
 | 2023.2 | [[Prova 1]](./avaliacoes/2023_2/p1.pdf) | [[Prova 2]](./avaliacoes/2023_2/p2.pdf) | [[Prova 3]](./avaliacoes/2023_2/p3.pdf) | [[Recuperação]](./avaliacoes/2023_2/rec.pdf) |
 | 2023.1 | [[Trabalho 1]](./avaliacoes/2023_1/t01.pdf) | [[Trabalho 2]](./avaliacoes/2023_1/t02.pdf) [[Trabalho 3]](./avaliacoes/2023_1/t03.pdf) | [[Trabalho 4]](./avaliacoes/2023_1/t04.pdf) | [[Recuperação]](./avaliacoes/2023_1/rec.pdf) |
+| 2022.2 | [[Lista 01]](./avaliacoes/2022_2/l01.pdf) [[Lista 02]](./avaliacoes/2022_2/l02.pdf) [[Lista 03]](./avaliacoes/2022_2/l03.pdf) | | | |
