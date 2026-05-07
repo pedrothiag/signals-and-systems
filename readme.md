@@ -36,12 +36,12 @@ Para a Engenharia de Computação, o conhecimento de Sinais e Sistemas reside em
 
 Plano de Curso:
 
-1. Números Complexos: [Slides](./slides/01_numeros_complexos.pdf) [Notebook](./notebooks/01_numeros_complexos.ipynb)
-2. Sinais e Sistemas de Tempo Contínuo: [Slides](./slides/02_sinais_sistemas_tempo_continuo.pdf) [Notebook](./notebooks/02_sinais_sistemas.ipynb)
-3. Análise no Domínio do Tempo de Sistemas de Tempo Contínuo: [Slides](./slides/03_analise_sistemas_tempo_continuo.pdf)
-4. Transformada de Laplace: [Slides](./slides/04_transformada_de_laplace.pdf)
-5. Série de Fourier em Tempo Contínuo: [Slides](./slides/05_serie_fourier_tempo_continuo.pdf)
-6. Transformada de Fourier em Tempo Contínuo: [Slides](./slides/06_transformada_fourier_tempo_continuo.pdf)
+1. Números Complexos: [[Slides]](./slides/01_numeros_complexos.pdf) [[Notebook]](./notebooks/01_numeros_complexos.ipynb)
+2. Sinais e Sistemas de Tempo Contínuo: [[Slides]](./slides/02_sinais_sistemas_tempo_continuo.pdf) [[Notebook]](./notebooks/02_sinais_sistemas.ipynb)
+3. Análise no Domínio do Tempo de Sistemas de Tempo Contínuo: [[Slides]](./slides/03_analise_sistemas_tempo_continuo.pdf)
+4. Transformada de Laplace: [[Slides]](./slides/04_transformada_de_laplace.pdf)
+5. Série de Fourier em Tempo Contínuo: [[Slides]](./slides/05_serie_fourier_tempo_continuo.pdf)
+6. Transformada de Fourier em Tempo Contínuo: [[Slides]](./slides/06_transformada_fourier_tempo_continuo.pdf)
 7. Amostragem
 8. Sinais e Sistemas de Tempo Discreto
 9. Transformada $Z$
@@ -74,3 +74,9 @@ pip install numpy scipy pandas matplotlib notebook sympy
 ```bash
 python3 -m notebook
 ````
+
+## Avaliações
+
+| Semestre | Unidade 1 | Unidade 2 | Unidade 3 | Recuperação |
+| -------- | --------- | ----------| --------- | ----------- |
+| 2026.1   | [P1](./avaliacoes/2026_1/p1.pdf) | | | |
