@@ -79,4 +79,5 @@ python3 -m notebook
 
 | Semestre | Unidade 1 | Unidade 2 | Unidade 3 | Recuperação |
 | -------- | --------- | ----------| --------- | ----------- |
-| 2026.1   | [P1](./avaliacoes/2026_1/p1.pdf) | | | |
+| 2026.1   | [[P1]](./avaliacoes/2026_1/p1.pdf) | | | |
+| 2025.2   | [[P2a]](./avaliacoes/2025_2/p1.pdf) | [[P2b]](./avaliacoes/2025_2/p2b.pdf) | [[P3]](./avaliacoes/2025_2/p3.pdf) | [[Recuperação]](./avaliacoes/2025_2/rec.pdf)
