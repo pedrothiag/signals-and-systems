@@ -79,6 +79,10 @@ python3 -m notebook
 
 | Semestre | Unidade 1 | Unidade 2 | Unidade 3 | Recuperação |
 | -------- | --------- | ----------| --------- | ----------- |
-| 2026.1   | [[P1]](./avaliacoes/2026_1/p1.pdf) | | | |
-| 2025.2   | [[P1]](./avaliacoes/2025_2/p1.pdf) | [[P2a]](./avaliacoes/2025_2/p2a.pdf) [[P2b]](./avaliacoes/2025_2/p2b.pdf) | [[P3]](./avaliacoes/2025_2/p3.pdf) | [[Recuperação]](./avaliacoes/2025_2/rec.pdf) |
-| 2025.1 | [[P1]](./avaliacoes/2025_1/p1.pdf) | [[P2]](./avaliacoes/2025_1/p2.pdf) | [[P3]](./avaliacoes/2025_1/p3.pdf) | [[Recuperação]](./avaliacoes/2025_1/rec.pdf) |
+| 2026.1   | [[Prova 1]](./avaliacoes/2026_1/p1.pdf) | | | |
+| 2025.2   | [[Prova 1]](./avaliacoes/2025_2/p1.pdf) | [[Prova 2a]](./avaliacoes/2025_2/p2a.pdf) [[Prova 2b]](./avaliacoes/2025_2/p2b.pdf) | [[Prova 3]](./avaliacoes/2025_2/p3.pdf) | [[Recuperação]](./avaliacoes/2025_2/rec.pdf) |
+| 2025.1 | [[Prova 1]](./avaliacoes/2025_1/p1.pdf) | [[Prova 2]](./avaliacoes/2025_1/p2.pdf) | [[Prova 3]](./avaliacoes/2025_1/p3.pdf) | [[Recuperação]](./avaliacoes/2025_1/rec.pdf) |
+| 2024.3 | [[Prova 1]](./avaliacoes/2024_3/p1.pdf) | [[Prova 2]](./avaliacoes/2024_3/p2.pdf) | [[Prova 3]](./avaliacoes/2024_3/p3.pdf) | [[Recuperação]](./avaliacoes/2024_3/rec.pdf) |
+| 2024.1 | [[Prova 1]](./avaliacoes/2024_1/p1.pdf) | [[Prova 2]](./avaliacoes/2024_1/p2.pdf) | [[Prova 3]](./avaliacoes/2024_1/p3.pdf) | [[Recuperação]](./avaliacoes/2024_1/rec.pdf) |
+| 2023.2 | [[Prova 1]](./avaliacoes/2023_2/p1.pdf) | [[Prova 2]](./avaliacoes/2023_2/p2.pdf) | [[Prova 3]](./avaliacoes/2023_2/p3.pdf) | [[Recuperação]](./avaliacoes/2023_2/rec.pdf) |
+| 2023.1 | [[Trabalho 1]](./avaliacoes/2023_1/t01.pdf) | [[Trabalho 2]](./avaliacoes/2023_1/t02.pdf) [[Trabalho 3]](./avaliacoes/2023_1/t03.pdf) | [[Trabalho 4]](./avaliacoes/2023_1/t04.pdf) | [[Recuperação]](./avaliacoes/2023_1/rec.pdf) |
