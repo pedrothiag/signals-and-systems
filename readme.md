@@ -36,8 +36,8 @@ Para a Engenharia de Computação, o conhecimento de Sinais e Sistemas reside em
 
 Plano de Curso:
 
-1. Números Complexos: [[Slides]](./slides/01_numeros_complexos.pdf) [[Notebook]](./notebooks/01_numeros_complexos.ipynb)
-2. Sinais e Sistemas de Tempo Contínuo: [[Slides]](./slides/02_sinais_sistemas_tempo_continuo.pdf) [[Notebook]](./notebooks/02_sinais_sistemas.ipynb)
+1. Números Complexos: [[Slides]](./slides/01_numeros_complexos.pdf) 
+2. Sinais e Sistemas de Tempo Contínuo: [[Slides]](./slides/02_sinais_sistemas_tempo_continuo.pdf) 
 3. Análise no Domínio do Tempo de Sistemas de Tempo Contínuo: [[Slides]](./slides/03_analise_sistemas_tempo_continuo.pdf)
 4. Transformada de Laplace: [[Slides]](./slides/04_transformada_de_laplace.pdf)
 5. Série de Fourier em Tempo Contínuo: [[Slides]](./slides/05_serie_fourier_tempo_continuo.pdf)
@@ -46,6 +46,11 @@ Plano de Curso:
 8. Sinais e Sistemas de Tempo Discreto
 9. Transformada $Z$
 10. Série e Transformada de Fourier em Tempo Discreto
+
+## 🐍 Códigos em Python
+
+1. Números Complexos: [[Notebook]](./notebooks/01_numeros_complexos.ipynb)
+2. Sinais e Sistemas de Tempo Contínuo e Análise no Domínio do Tempo de Sistemas de Tempo Contínuo: [[Notebook]](./notebooks/02_sinais_sistemas.ipynb)
 
 ## 🐍 Utilização dos Códigos em Python
 
@@ -75,7 +80,9 @@ pip install numpy scipy pandas matplotlib notebook sympy
 python3 -m notebook
 ````
 
-## Avaliações
+## 📝 Avaliações
+
+Abaixo segue um banco com avaliações de semestres anteriores:
 
 | Semestre | Unidade 1 | Unidade 2 | Unidade 3 | Recuperação |
 | -------- | --------- | ----------| --------- | ----------- |
@@ -89,4 +96,16 @@ python3 -m notebook
 | 2022.2 | [[Lista 1]](./avaliacoes/2022_2/l01.pdf) [[Lista 2]](./avaliacoes/2022_2/l02.pdf) [[Lista 3]](./avaliacoes/2022_2/l03.pdf) | [[Lista 4]](./avaliacoes/2022_2/l04.pdf) [[Lista 5]](./avaliacoes/2022_2/l05.pdf)[[Lista 6]](./avaliacoes/2022_2/l06.pdf) | [[Lista 7]](./avaliacoes/2022_2/l07.pdf) [[Lista 8]](./avaliacoes/2022_2/l08.pdf) | Não houve |
 | 2022.1 | [[Prova 1a]](./avaliacoes/2022_1/P1a.pdf) [[Prova 1b]](./avaliacoes/2022_1/P1b.pdf) | [[Prova 2a]](./avaliacoes/2022_1/P2a.pdf) [[Prova 2b]](./avaliacoes/2022_1/P2b.pdf) | [[Prova 3a]](./avaliacoes/2022_1/P3a.pdf) [[Prova 3b]](./avaliacoes/2022_1/P3b.pdf) | [[Recuperação]](./avaliacoes/2022_1/Rec.pdf) |
 | 2021.2 | [[Prova 1]](./avaliacoes/2021_2/p1.pdf) | [[Prova 2]](./avaliacoes/2021_2/p2.pdf) | [[Prova 3]](./avaliacoes/2021_2/p3.pdf) | [[Recuperação]](./avaliacoes/2021_2/rec.pdf) |
-| 2021.1 | [[Prova 1a]](./avaliacoes/2021_1/p1a.pdf) [[Prova 1b]](./avaliacoes/2021_1/p1b.pdf) | [[Prova 2]](./avaliacoes/2021_1/p2.pdf) | [[Prova 3]](./avaliacoes/2021_1/p3.pdf) | Não houve |
+| 2021.1 | [[Prova 1a]](./avaliacoes/2021_1/p1a.pdf) [[Prova 1b]](./avaliacoes/2021_1/p1b.pdf) | [[Prova 2]](./avaliacoes/2021_1/p2.pdf) | [[Prova 3]](./avaliacoes/2021_1/p3.pdf) | Não houve |i
+
+Para os semestres de 2023.1 e 2022.2 não houveram avaliações escritas, apenas Listas e Trabalhos.
+
+## 💻 Trabalhos Computacionais
+
+Abaixo segue um banco com trabalhos computacionais (a serem desenvolvidos em Python) de semestres anteriores:
+
+| Semestre | Trabalhos |
+| -------- | --------- |
+| 2026.1   | [[Trabalho 1]](./trabalhos/2026_1/t1.pdf) |
+| 2025.2   | [[Trabalho 1]](./trabalhos/2025_2/t1.pdf) [[Trabalho 2]](./trabalhos/2025_2/t2.pdf) |
+
