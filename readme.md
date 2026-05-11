@@ -82,30 +82,16 @@ python3 -m notebook
 
 ## 📝 Avaliações
 
-Abaixo segue um banco com avaliações de semestres anteriores:
+Abaixo segue um banco com avaliações dos semestres 2025.2 e 2026.1:
 
 | Semestre | Unidade 1 | Unidade 2 | Unidade 3 | Recuperação |
 | -------- | --------- | ----------| --------- | ----------- |
 | 2026.1   | [[Prova 1]](./avaliacoes/2026_1/p1.pdf) | | | |
 | 2025.2   | [[Prova 1]](./avaliacoes/2025_2/p1.pdf) | [[Prova 2a]](./avaliacoes/2025_2/p2a.pdf) [[Prova 2b]](./avaliacoes/2025_2/p2b.pdf) | [[Prova 3]](./avaliacoes/2025_2/p3.pdf) | [[Recuperação]](./avaliacoes/2025_2/rec.pdf) |
-| 2025.1 | [[Prova 1]](./avaliacoes/2025_1/p1.pdf) | [[Prova 2]](./avaliacoes/2025_1/p2.pdf) | [[Prova 3]](./avaliacoes/2025_1/p3.pdf) | [[Recuperação]](./avaliacoes/2025_1/rec.pdf) |
-| 2024.3 | [[Prova 1]](./avaliacoes/2024_3/p1.pdf) | [[Prova 2]](./avaliacoes/2024_3/p2.pdf) | [[Prova 3]](./avaliacoes/2024_3/p3.pdf) | [[Recuperação]](./avaliacoes/2024_3/rec.pdf) |
-| 2024.1 | [[Prova 1]](./avaliacoes/2024_1/p1.pdf) | [[Prova 2]](./avaliacoes/2024_1/p2.pdf) | [[Prova 3]](./avaliacoes/2024_1/p3.pdf) | [[Recuperação]](./avaliacoes/2024_1/rec.pdf) |
-| 2023.2 | [[Prova 1]](./avaliacoes/2023_2/p1.pdf) | [[Prova 2]](./avaliacoes/2023_2/p2.pdf) | [[Prova 3]](./avaliacoes/2023_2/p3.pdf) | [[Recuperação]](./avaliacoes/2023_2/rec.pdf) |
-| 2023.1 | [[Trabalho 1]](./avaliacoes/2023_1/t01.pdf) | [[Trabalho 2]](./avaliacoes/2023_1/t02.pdf) [[Trabalho 3]](./avaliacoes/2023_1/t03.pdf) | [[Trabalho 4]](./avaliacoes/2023_1/t04.pdf) | [[Recuperação]](./avaliacoes/2023_1/rec.pdf) |
-| 2022.2 | [[Lista 1]](./avaliacoes/2022_2/l01.pdf) [[Lista 2]](./avaliacoes/2022_2/l02.pdf) [[Lista 3]](./avaliacoes/2022_2/l03.pdf) | [[Lista 4]](./avaliacoes/2022_2/l04.pdf) [[Lista 5]](./avaliacoes/2022_2/l05.pdf)[[Lista 6]](./avaliacoes/2022_2/l06.pdf) | [[Lista 7]](./avaliacoes/2022_2/l07.pdf) [[Lista 8]](./avaliacoes/2022_2/l08.pdf) | Não houve |
-| 2022.1 | [[Prova 1a]](./avaliacoes/2022_1/P1a.pdf) [[Prova 1b]](./avaliacoes/2022_1/P1b.pdf) | [[Prova 2a]](./avaliacoes/2022_1/P2a.pdf) [[Prova 2b]](./avaliacoes/2022_1/P2b.pdf) | [[Prova 3a]](./avaliacoes/2022_1/P3a.pdf) [[Prova 3b]](./avaliacoes/2022_1/P3b.pdf) | [[Recuperação]](./avaliacoes/2022_1/Rec.pdf) |
-| 2021.2 | [[Prova 1]](./avaliacoes/2021_2/p1.pdf) | [[Prova 2]](./avaliacoes/2021_2/p2.pdf) | [[Prova 3]](./avaliacoes/2021_2/p3.pdf) | [[Recuperação]](./avaliacoes/2021_2/rec.pdf) |
-| 2021.1 | [[Prova 1a]](./avaliacoes/2021_1/p1a.pdf) [[Prova 1b]](./avaliacoes/2021_1/p1b.pdf) | [[Prova 2]](./avaliacoes/2021_1/p2.pdf) | [[Prova 3]](./avaliacoes/2021_1/p3.pdf) | Não houve |i
-
-Para os semestres de 2023.1 e 2022.2 não houveram avaliações escritas, apenas Listas e Trabalhos.
 
 ## 💻 Trabalhos Computacionais
 
-Abaixo segue um banco com trabalhos computacionais (a serem desenvolvidos em Python) de semestres anteriores:
+Abaixo segue um banco com trabalhos computacionais (a serem desenvolvidos em Python):
 
-| Semestre | Trabalhos |
-| -------- | --------- |
-| 2026.1   | [[Trabalho 1]](./trabalhos/2026_1/t1.pdf) |
-| 2025.2   | [[Trabalho 1]](./trabalhos/2025_2/t1.pdf) [[Trabalho 2]](./trabalhos/2025_2/t2.pdf) |
+- Trabalho Computacional 01 - Números Complexos, Sinais e Sistemas de Tempo Contínuo e Análise no Domínio do Tempo de Sistemas de Tempo Contínuo: [[Trabalho 1]](./trabalhos/2026_1/t1.pdf) 
 
